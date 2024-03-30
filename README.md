@@ -1,7 +1,7 @@
 # Top Spotify Songs in 73 Countries
 
 ## Data Engineering Zoomcamp  Project
-This is my final project fot the [Data Engineering Zoomcamp from DataTalksClub](https://github.com/DataTalksClub/data-engineering-zoomcamp) .
+This is my final project for the [Data Engineering Zoomcamp from DataTalksClub](https://github.com/DataTalksClub/data-engineering-zoomcamp) .
 
 This zoomcamp had the following modules: 
   - Module 1: Containerization and Infrastructure as Code using Docker, Postgres, GCP and Terraform.
