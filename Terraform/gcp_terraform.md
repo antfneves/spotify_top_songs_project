@@ -22,3 +22,7 @@ terraform plan
 ```
 terraform apply
 ```
+5) Checked the Google Cloud Storage to see if the bucket was created.
+
+![](https://github.com/antfneves/spotify_top_songs_project/blob/main/Terraform/gcs_bucket.jpg?raw=true)
+     
