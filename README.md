@@ -14,7 +14,7 @@ This zoomcamp had the following modules:
 For my project I decided to analyze the top Spotify songs currently trending in the world. I wanted to discover which are the artists most listened to in a specific country and check if the level of the songs danceability, explicitness and instrumentalness have a relation with the popularity of the song. 
 I choose this [dataset](https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated) that presents the top songs currently trending for over 70 countries which is updated daily.     
 
-## TOOLS AND TECHNOLOGIES USED
+## TECHNOLOGIES USED
 -	Containerization - Docker
 -	Cloud - Google Cloud Storage (GCS)
 -	Infrastructure-as-Code - Terraform
@@ -22,5 +22,8 @@ I choose this [dataset](https://www.kaggle.com/datasets/asaniczka/top-spotify-so
 - Data Warehouse - BigQuery
 -	Transformations - Spark
 -	Dashboard - Looker Studio
+
+ ## DEVELOPMENT STEPS 
+ - Using GCP with Terraform
   
 
