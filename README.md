@@ -12,7 +12,7 @@ This zoomcamp had the following modules:
   - Module 6: Streaming with Kafka.
     
 For my project I decided to analyze the top Spotify songs currently trending in the world. I wanted to discover which are the artists most listened to in a specific country and check if the level of the songs danceability, explicitness and instrumentalness have a relation with the popularity of the song. 
-I choose this [dataset](https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated) that presents the top songs currently trending for over 70 countries which is updated daily.     
+I choose this [dataset](https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated)  from Kaggle that presents the top songs currently trending for over 70 countries which is updated daily.     
 
 ## TECHNOLOGIES USED
 -	Containerization - Docker
