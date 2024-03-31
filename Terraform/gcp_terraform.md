@@ -14,12 +14,15 @@
 
 4) Applied the following commands to plan the creation of the GCP Infrastructure:
 ```
+#Initialization
 terraform init
 ```
 ```
+#Planning
 terraform plan
 ```
 ```
+#Applying
 terraform apply
 ```
 5) Checked the Google Cloud Storage to see if the bucket was created.
