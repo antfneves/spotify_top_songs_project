@@ -25,5 +25,6 @@ I choose this [dataset](https://www.kaggle.com/datasets/asaniczka/top-spotify-so
 
  ## DEVELOPMENT STEPS 
  - Using GCP with Terraform
+ - Using Mage
   
 
