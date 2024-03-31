@@ -15,9 +15,10 @@
 - Applied the following commands to plan the creation of the GCP Infrastructure:
 ```
 terraform init
-
+```
+```
 terraform plan
-
+```
+```
 terraform apply
-
 ```
