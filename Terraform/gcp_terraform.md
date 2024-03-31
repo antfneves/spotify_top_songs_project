@@ -9,7 +9,7 @@
 
 ![](https://github.com/antfneves/spotify_top_songs_project/blob/main/Terraform/create_new_key.jpg?raw=true)
 
-3) Created the [main.tf](Terraform/main.tf) file using the name of my Project ID, Region and the path to my credentials and defined the name of the Google Storage Bucket that i wanted to create.   
+3) Created the [main.tf](https://github.com/antfneves/spotify_top_songs_project/blob/main/Terraform/main.tf) file using the name of my Project ID, Region and the path to my credentials and defined the name of the Google Storage Bucket that i wanted to create.   
 
 
 4) Applied the following commands to plan the creation of the GCP Infrastructure:
