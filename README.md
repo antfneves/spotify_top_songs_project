@@ -24,9 +24,11 @@ I choose this [dataset](https://www.kaggle.com/datasets/asaniczka/top-spotify-so
 -	Dashboard - Looker Studio
 
  ## DEVELOPMENT STEPS 
- - [Using GCP with Terraform](https://github.com/antfneves/spotify_top_songs_project/blob/main/Terraform/gcp_terraform.md)
- - [Using Mage](https://github.com/antfneves/spotify_top_songs_project/blob/main/Mage/mage.md)
- - [Using BigQuery](https://github.com/antfneves/spotify_top_songs_project/blob/main/Big%20Query/bigquery.md)
- - [Using Spark](https://github.com/antfneves/spotify_top_songs_project/blob/main/Spark/spark.md)
+ Follow the links below to see all the steps that I made to develop this project:
+ 
+ 1) [Using GCP with Terraform](https://github.com/antfneves/spotify_top_songs_project/blob/main/Terraform/gcp_terraform.md)
+ 2) [Using Mage](https://github.com/antfneves/spotify_top_songs_project/blob/main/Mage/mage.md)
+ 3) [Using BigQuery](https://github.com/antfneves/spotify_top_songs_project/blob/main/Big%20Query/bigquery.md)
+ 4) [Using Spark](https://github.com/antfneves/spotify_top_songs_project/blob/main/Spark/spark.md)
   
 
