@@ -30,6 +30,6 @@ resource "google_storage_bucket" "deproject-bucket" {
 }
 
 resource "google_bigquery_dataset" "project_dataset" {
-  dataset_id = "project_dataset"
+  dataset_id = "spotify"
 
 }  
