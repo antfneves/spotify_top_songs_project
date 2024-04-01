@@ -1,4 +1,4 @@
-1) In the IAM & Admin section of mine Google Cloud, I created a service account and I gave Storage Admin, BigQuery Admin and Compute Admin permissions.
+1) In the IAM & Admin section of mine Google Cloud, I created a service account, and I gave Storage Admin, BigQuery Admin and Compute Admin permissions.
 
 
 ![](https://github.com/antfneves/spotify_top_songs_project/blob/main/Terraform/create_service_account.jpg?raw=true)
