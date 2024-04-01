@@ -1,4 +1,4 @@
-1) Added the GOOGLE_SERVICE_ACC_KEY_FILEPATH and the GOOGLE_LOCATION to the io_config.yaml file.
+1) Added the GOOGLE_SERVICE_ACC_KEY_FILEPATH and the GOOGLE_LOCATION to the [io_config.yaml](https://github.com/antfneves/spotify_top_songs_project/blob/main/Mage/io_config.yaml) file.
 
 2) Created a pipeline with three blocks: [load_spotify ](https://github.com/antfneves/spotify_top_songs_project/blob/main/Mage/load_spotify.py), [transform_spotify_data](https://github.com/antfneves/spotify_top_songs_project/blob/main/Mage/transform_spotify_data.py) and  [spotify_to_gcs](https://github.com/antfneves/spotify_top_songs_project/blob/main/Mage/spotify_to_gcs.py).
 
