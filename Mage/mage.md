@@ -9,3 +9,6 @@
 5) In the [last block](https://github.com/antfneves/spotify_top_songs_project/blob/main/Mage/spotify_to_gcs.py) I declared the bucket name of my GCS and the name of the parquet file that I wanted to create and send to the bucket.
 
 ![](https://github.com/antfneves/spotify_top_songs_project/blob/main/Mage/mage_tree.jpg?raw=true) 
+
+6) Created a trigger to run the pipeline on a daily basis
+    
