@@ -30,5 +30,12 @@ I choose this [dataset](https://www.kaggle.com/datasets/asaniczka/top-spotify-so
  2) [Using Mage](https://github.com/antfneves/spotify_top_songs_project/blob/main/Mage/mage.md)
  3) [Using BigQuery](https://github.com/antfneves/spotify_top_songs_project/blob/main/Big%20Query/bigquery.md)
  4) [Using Spark](https://github.com/antfneves/spotify_top_songs_project/blob/main/Spark/spark.md)
+
+  ## DASHBOARD
+  Made this dashboard below using the data from my country, Portugal. You can see the data from your country using this [link](https://lookerstudio.google.com/s/iFKK5-eOakk).
+
+  ![](https://github.com/antfneves/spotify_top_songs_project/blob/main/portugal_top_songs_dashboard.jpg?raw=true)
+
+  
   
 
