@@ -11,4 +11,6 @@
 ![](https://github.com/antfneves/spotify_top_songs_project/blob/main/Mage/mage_tree.jpg?raw=true) 
 
 6) Created a trigger to run the pipeline on a daily basis
+
+![](https://github.com/antfneves/spotify_top_songs_project/blob/main/Mage/mage_trigger.jpg?raw=true)    
     
